@@ -1,0 +1,56 @@
+{
+    "products": [
+
+        {
+            "id": 1,
+            "name": "Product A",
+            "description": "Description for Product A",
+            "category": "Electronics",
+            "price": 299.99,
+            "img": "https://i.pinimg.com/564x/ae/cd/34/aecd34f864c974bd13e269bd731440ad.jpg"
+
+            },
+            {
+            "id": 2,
+            "name": "Product B",
+            "description": "Description for Product B",
+            "category": "Clothing",
+            "price": 49.99,
+            "img": "https://i.pinimg.com/564x/ef/23/83/ef23838bf2e41a4bcffc3b1474bec4b2.jpg"
+            },
+            {
+            "id": 3,
+            "name": "Product C",
+            "description": "Description for Product C",
+            "category": "Home & Kitchen",
+            "price": 199.95,
+            "img": "https://i.pinimg.com/564x/25/95/f4/2595f49c4e8be9d4f09e2d2927892b0c.jpg"
+            },
+            {
+            "id": 4,
+            "name": "Product D",
+            "description": "Description for Product D",
+            "category": "Electronics",
+            "price": 599.99,
+            "img": "https://i.pinimg.com/564x/b3/0c/cb/b30ccb6dab5dea29ae4a117b894c8d5b.jpg"
+            },
+            {
+            "id": 5,
+            "name": "Product E",
+            "description": "Description for Product E",
+            "category": "Clothing",
+            "price": 39.99,
+            "img": "https://i.pinimg.com/originals/54/8d/a0/548da0df57cc88bc41e24daf3619606d.jpg"
+            },
+            {
+            "id": 6,
+            "name": "Product F",
+            "description": "Description for Product F",
+            "category": "Home & Kitchen",
+            "price": 149.95,
+            "img": "https://i.pinimg.com/564x/c3/c7/84/c3c7844c9e8b1990753809a5f8c99943.jpg"
+
+            }
+    ]
+
+}
